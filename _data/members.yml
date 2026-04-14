@@ -1,0 +1,58 @@
+# ===== MEMBER LIST =====
+# ==== GUIDE TO FIELDS
+# NAME: your full name
+# POSITION: your position on the team
+# EMAIL: preferred email
+# GITHUB: your GitHub username
+#
+# ==== OPTIONAL ====
+# CONTENT: a short introductory blurb. This will not render if left blank.
+# OTHER: any other link you'd like to add to the list (portfolio, social media, etc.). This will not render if left blank.
+#   OTHER.TITLE: the name of the linked service
+#   OTHER.LINK : the actual link to the service
+
+- name: Nao Belgrave
+  position: Team Lead, Designer, UX/UI, Webmaster
+  content: Hey! I'm Nao, one of the designers on **Sheep Protector**. I like reading, writing, and leaving short games unfinished.
+  email: nob6010@rit.edu
+  github: sacanthias
+  other: 
+    title: Portfolio
+    link: https://sacanthias.github.io/
+
+- name: Milo Qureshi
+  position: Designer, Artist
+  content: Hello! I'm Milo, another one of the designers on **Sheep Protector**. I enjoy game poetry and crocheting. 
+  email: hhq8650@rit.edu
+  github: milosneptune
+  other:
+    title: Portfolio
+    link: https://milosneptune.github.io/portfolio/
+
+- name: Cameron Wilson
+  position: Designer, Programmer
+  content: Hi! I'm Cameron, a designer and programmer for **Sheep Protector**. I like fishing, playing games, and baking.
+  email: caw2217@rit.edu
+  github: dontgtg123
+  other:
+    title:
+    link: 
+
+- name: Eoin Stansfield
+  position: Programmer
+  content: Hello! I'm Eoin, a programmer for **Sheep Protector**. I enjoy sports, cooking, and nature. 
+  email: ejs2477@rit.edu
+  github: Sudszi
+  other:
+    title: 
+    link: 
+
+- name: Logan Brown
+  position: Programmer
+  content: Hello! I am Logan, one of the programmers for Sheep Protector. I like cats (and currently have 2), being with my family, and playing games.
+  email: ltb9433@rit.edu
+  github: Logan-Brown121
+  other:
+    title: Portfolio
+    link: https://people.rit.edu/ltb9433/portfolio/
+
