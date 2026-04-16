@@ -31,6 +31,6 @@ All of this UI design, or at least the foundation, were required for our MVI bui
 
 When I was finished, the pause menu looked like this:
 
-![Screenshot of the rough pause menu implemented in Unity.]({{ site.baseurl }}/images/pausedevss.png)
+![Screenshot of the rough pause menu implemented in Unity.](/assets/images/pausedevss.png)
 
 Which, okay! It's nowhere near as refined as my first draft, but the idea is there. The text is mostly in the same place, but the buttons are not. This was a conscious decision I made due to the differences in interaction between KBM and controller. Currently, we're only really developing for KBM while keeping controller inputs in the back of our minds, so I decided that it'd be most useful to focus on KBM for our first build.
